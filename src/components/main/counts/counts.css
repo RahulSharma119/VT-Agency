@@ -1,0 +1,8 @@
+.countsInner{
+    display: flex;
+    padding: 50px 50px;
+    justify-content: space-around;
+}
+.countsContainer{
+    padding: 50px;
+}

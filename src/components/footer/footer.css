@@ -1,0 +1,9 @@
+.footerContainer{
+    padding: 20px 50px;
+    height: 60px;
+    background-color: #eee;
+}
+
+a{
+    text-decoration: none;
+}

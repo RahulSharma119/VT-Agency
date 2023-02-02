@@ -1,0 +1,33 @@
+.navbarContainer{
+    height: 60px;
+    background-color: #eee;
+    border-bottom: solid black 1px;
+    font-size: 1.15em;
+}
+
+.navbarContainer > div , .navbarContainer > div > h3{
+    display: inline-block;
+}
+
+.navbarFloatLeft{
+    float: left;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbarFloatRight{
+    float: right;
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.margin20{
+    margin: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: #2199e8;
+}
